@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "962322866343",
+    "project_id": "self-care-bed47",
+    "storage_bucket": "self-care-bed47.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:962322866343:android:eaf9dfb362d189de983b82",
+        "android_client_info": {
+          "package_name": "com.example.health"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "962322866343-jospcd10nfdtakr5si0qbtv546hpl4s9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqMJv4sP5l37z5i-1eNaylXqPTKB3f8cQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "962322866343-jospcd10nfdtakr5si0qbtv546hpl4s9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
